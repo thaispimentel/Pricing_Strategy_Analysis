@@ -7,8 +7,7 @@ This project conducts an in-depth analysis of the sales performance of a bicycle
 
 The initial analysis involved cleaning and organizing the raw data using SQL. This process provided a more consolidated view of the data, resulting in a table that includes the key variables for my analysis, along with two essential columns: Revenue and Profit.
 
-![image](https://github.com/user-attachments/assets/0061b416-4c0d-411e-a683-cab3d00ffb2b)
-
+![SQL](https://github.com/thaispimentel/Pricing_Strategy_Analysis/blob/main/SQL1.png)
 
 **Dictionary of present variables:**
 - __Dteday:__ date of the transaction in a specific format (DD/MM/YYYY). 
@@ -24,7 +23,7 @@ The initial analysis involved cleaning and organizing the raw data using SQL. Th
 
 After that, the data was transferred to Power BI to create the dashboard, emphasizing the following data required for analysis: hourly revenue analysis, profit and revenue trends, seasonal revenue and rider demographics.
 
-![image](https://github.com/user-attachments/assets/5d9b9c19-aca5-4e8f-b379-0dccaf0101b8)
+![Dash](https://github.com/thaispimentel/Pricing_Strategy_Analysis/blob/main/Dash1.png)
 
 [Access the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmU2YTAxODUtN2MzZi00NjhlLTg0ZjItNTkzMjBkYzFhYzBiIiwidCI6IjMzOTVmYTlmLWM4YjUtNDYwMy05MWRhLTA0ZjM2MWFjNGVlNiIsImMiOjR9)
 
