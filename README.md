@@ -21,7 +21,7 @@ The initial analysis involved cleaning and organizing the raw data using SQL. Th
 - __Revenue:__ total income generated from sales before any costs are deducted.
 - __Profit:__ This variable calculates the net income earned from sales after subtracting COGS and other expenses.
 
-After that, the data was transferred to Power BI to create the dashboard, emphasizing the following data required for analysis: hourly revenue analysis, profit and revenue trends, seasonal revenue and rider demographics.
+After that, I connected Power BI to the database, creating the dashboard, emphasizing the following data required for analysis: hourly revenue analysis, profit and revenue trends, seasonal revenue and rider demographics.
 
 ![Dash](https://github.com/thaispimentel/Pricing_Strategy_Analysis/blob/main/Dash1.png)
 
