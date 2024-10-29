@@ -30,7 +30,7 @@ After that, I connected Power BI to the database, creating the dashboard, emphas
   
 ## 📈 Insights e Conclusões
 
-Data indicates that a 25% increase in price leads to a 64% increase in demand. This growth indicates a robust demand for the shop's services, suggesting that there may be room for a price increase in the upcoming year. Given that the average price in 2022 was $4.99, a conservative increase of 10-15% could potentially set the new price between $5.49 and $5.74. 
+With a profit margin of 45%, the company is outperforming the industry average for bicycle retail sales, which stands at approximately 36%, indicating its strong profitability. The data reveals that despite a 25% price increase from 2021 to 2022, demand surged by 64%, leading to substantial growth in both revenue and profit. This growth indicates a robust demand for the shop's services, suggesting that there may be room for a price increase in the coming year. Given that the average price in 2022 was $4.99, a conservative increase of 10-15% could potentially set the new price between $5.49 and $5.74. 
 
 However, it is crucial to conduct further market analysis to gauge customer sensitivity to price changes and monitor sales data closely post-implementation. This approach will help ensure that any increase does not adversely affect customer retention or demand.
 
